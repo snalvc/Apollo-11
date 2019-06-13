@@ -40,8 +40,8 @@
 &nbsp;      | &nbsp;
 :---------- | :-----
 授權聲明     | 公眾領域
-Comanche055 | Part of the source code for Colossus 2A, the Command Module's (CM) Apollo Guidance Computer (AGC) for Apollo 11<br>`Assemble revision 055 of AGC program Comanche by NASA`<br>`2021113-051. 10:28 APR. 1, 1969`
-Luminary099 | Part of the source code for Luminary 1A, the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11<br>`Assemble revision 001 of AGC program LYM99 by NASA`<br>`2021112-061. 16:27 JUL. 14, 1969`
+Comanche055 | Colossus 2A之部份原始碼。Colossus 2A為阿波羅11號指揮艙(Command Module, CM)上的阿波羅導航電腦(Apollo Guidance Computer, AGC)代號。<br>`Assemble revision 055 of AGC program Comanche by NASA`<br>`2021113-051. 10:28 APR. 1, 1969`
+Luminary099 | Luminary 1A之部份原始碼。Luminary 1A為阿波羅11號登月艙(Lunar Module, LM)上的阿波羅導航電腦(Apollo Guidance Computer, AGC)代號。<br>`Assemble revision 001 of AGC program LYM99 by NASA`<br>`2021112-061. 16:27 JUL. 14, 1969`
 組譯器       | yaYUL
 連絡人       | Ron Burkey <info@sandroid.org>
 網站         | www.ibiblio.org/apollo
